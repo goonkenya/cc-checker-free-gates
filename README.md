@@ -1,21 +1,18 @@
-# cc-checker-free-gates
-Multi-gateway Telegram CC checker bot with free Stripe, Braintree &amp; Paypal gates
-CC Checker Bot 🔥CC Checker Bot 🔥
-Welcome to the Ultimate CC Checker Bot repository! This bot offers an all-in-one solution to test credit cards with multiple popular payment gateways including Stripe, Braintree, Cybersource, and more.
+# cc-checker-free-gates and killer
 
-What You Get When You Tap the Link 🔗
-Access to FREE gates and free endpoints for Stripe, Braintree, and other top payment gateways.
+**Multi-gateway Telegram CC checker bot with free Stripe, Braintree & Paypal gates**
+---
+## What You Get 🔗
 
-Reliable and up-to-date gateway integrations to verify card validity and transaction status.
+- FREE gates & API endpoints for Stripe, Braintree, Paypal, and top gateways  
+- Reliable and updated gateway integrations for card validation  
+- VBV checks, BIN lookups, Paypal & Braintree checkers  
+- Seamless interface for fast and efficient card testing
 
-Support for VBV checks, BIN lookups, and Paypal/Braintree checkers.
+---
 
-A seamless interface to test your cards efficiently and effectively.
+## Free Checker and Gates! ⚡
 
-Try It Now! ⚡
-Want to make sure the gates are legit? Test the cards yourself by using our Telegram bot:
+[Test the Bot](http://t.me/AuthCcV3_bot)  
 
-http://t.me/AuthCcV3_bot
-
-free api endpoints and gates
-https://t.me/+nUO3FiPo798wNTY0
+[Free API Endpoints & Gates](https://t.me/+nUO3FiPo798wNTY0)  
