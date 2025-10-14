@@ -1,4 +1,5 @@
 # cc-checker-free-gates and killer
+http://t.me/AuthCcV3_bot
 
 **Multi-gateway Telegram CC checker bot with free Stripe, Braintree & Paypal gates**
 ---
