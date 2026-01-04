@@ -16,4 +16,4 @@ http://t.me/AuthCcV3_bot
 
 [Test the Bot](http://t.me/AuthCcV3_bot)  
 
-[Free API Endpoints & Gates](https://t.me/+nUO3FiPo798wNTY0)  
+[Free API Endpoints & Gates](https://t.me/approvedvcc)  
